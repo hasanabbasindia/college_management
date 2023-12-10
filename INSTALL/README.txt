@@ -1,12 +1,10 @@
-This project was created by ronald ngoda
-phone:+2540708344101
-email:ronniengoda@gmail.com
-website:www.ronaldngoda.rf.gd
+This project was created by Hasan Abbas, Bhoomika Mittal, Kishan Sharma
+email:hasanabbasofficial@gmail.com
 
 
 About
 ========================
-This is a school management system for highschools ,it has got a wide array of features including student admission,fees collection,listing of all banks for fees collection,adding teachers,adding subjects,adding classes,hostels among many other school administrative features.
+This is a school/college management system for schools or colleges ,it has got a wide array of features including student admission,fees collection,listing of all banks for fees collection,adding teachers,adding subjects,adding classes,hostels among many other school administrative features.
 You can easily use this system to manage schools with a capacity of upto 1000 students
 For more customizationa and or PRO version request contact me.
 For any other project regarding management and informaton systems also contact me in the above listed contacts.
